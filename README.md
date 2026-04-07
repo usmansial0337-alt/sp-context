@@ -6,10 +6,9 @@ Your AI agent starts every session knowing nothing about your team. This fixes t
 
 No vector database. No embeddings. No RAG pipeline. Just Git + BM25 + 114 tokens per session.
 
-```
-Claude Code / Codex / Any Agent  ──  Bash  ──▶  sp CLI  ──▶  Git Repo
-                                                              (your team's single source of truth)
-```
+![demo](assets/demo.png)
+
+*Ask your agent anything → it searches your knowledge base → returns the answer with sources.*
 
 ## Why not RAG / vector DB / MCP?
 
